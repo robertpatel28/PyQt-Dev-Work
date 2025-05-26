@@ -1,0 +1,4 @@
+Apartment,260000
+Townhouse,300000
+Single-Family Home,325000
+Luxury Villa,480000

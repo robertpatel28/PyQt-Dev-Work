@@ -1,0 +1,7 @@
+Alex,Patel,22,24000,Standard,Apartment
+Kirti,Konduri,20,30000,Luxury,Single-Family Home
+Katie,Patel,26,30000,Smart,Luxury Villa
+Del,Bonsu,22,60000,Smart,Apartment
+Katie,Patel,26,20000,Smart,Apartment
+Alex,Patel,21,0,Luxury,Apartment
+Robert,Patel,21,30000,Smart,Apartment
