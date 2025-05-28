@@ -15,7 +15,6 @@ Each folder below contains a mini-project or module created to demonstrate key p
 | `collegeFeeCalculator` | Tuition/fee calculator for university financial planning               |
 | `dbconnectiontest`   | Tests connectivity to a database using JDBC (Java)                         |
 | `evenorodd`          | Simple conditional program to check number parity                          |
-| `finalproject`       | (Likely contains final group or individual capstone — check for details)  |
 | `financialplanner` / `financialplanner2` | Budgeting and forecasting UI applications           |
 | `fruitPurchase`      | Simulates itemized purchase of fruit using selection menu or input logic   |
 | `fullName`           | Demonstrates string manipulation and GUI input                            |
@@ -23,7 +22,6 @@ Each folder below contains a mini-project or module created to demonstrate key p
 | `helloWorld`         | First PyQt6/JavaFX GUI program setup                                      |
 | `homePurchase`       | Calculator for home buying budget, down payment, mortgage                 |
 | `multiformexample`   | Example using multiple forms/windows in a GUI                             |
-| `project1`, `project3` | Small or mid-size scoped project submissions                              |
 | `streetFighter`      | A simple turn-based game or fighting simulation                           |
 | `studentPerformance` | Tracks and evaluates academic performance                                |
 | `studentscores`      | Another variant of performance/grade management                           |
