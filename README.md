@@ -1,7 +1,6 @@
 # PyQt-Dev-Work
 
-# 📘 BUS 444 – System Design & Implementation Coursework
-
+# 📘 BUS 442 – Information Systems Development
 This repository contains hands-on development work completed as part of **BUS 442: Information Systems Development** at NC State University. The course focused on applying software design principles using Python, Java, and UI frameworks such as PyQt6, with an emphasis on modular design, event-driven programming, and real-world project simulations.
 
 ---
