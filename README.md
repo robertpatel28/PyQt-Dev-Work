@@ -39,7 +39,7 @@ Each folder below contains a mini-project or module created to demonstrate key p
 - Conditional logic & input validation
 - Modular project organization
 - Data processing and simulation
-- 
+
 ---
 
 ## 🧑‍💻 Author
